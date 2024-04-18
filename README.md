@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adhish-21
-- 👀 I’m interested in pentesting and artificial intelligence 
-- 🌱 I’m currently studying computer science engineering 
-- 👨‍💻 I’m looking to collaborate on new technologies 
+- 👀 I’m interested in DevOps and Cloud computing
+- 🌱 I’m currently working as support engineer for DevOps team 
 - 📫 How to reach me adhishraj37@gmail.com
 
 <!---
